@@ -1,0 +1,2 @@
+The best Hyperparameters: {'n_epochs': 10, 'batch_size': 64, 'learning_rate': 0.0001, 'momentum': 0.8, 'l2_lambda': 0.0001, 'n_hidden_units': 256}
+The best score: 0.29209622740745544
